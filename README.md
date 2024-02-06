@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi! I'm Erin 👋
+- 👩‍💻 Eager problem solver and skilled communicator.
+- 🚙 Currently working @ Cornell on a tool that quantifies vehicle emissions in pursuit of better air quality!
+- 🎶 Recently, I've been making updates to my Angular web-app, the [erinmusicbox MIDI Visualizer](https://erinmusicbox.com/).
+- 🎹 I run a freelance music box business called erinmusicbox (5 years and counting!).
+- 🐈 In my free time, I like to sing, hike, and hang out with my two cats.
 
-<!--
-**em843/em843** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- GITHUBSTATS:START -->
+<a href="https://github-readme-stats.vercel.app/api?username=em843&hide_title=true&count_private=true&show_icons=true&theme=radical">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=em843&hide_title=true&count_private=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=em843&hide_title=true&theme=radical&langs_count=4">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=em843&hide_title=true&theme=radical&langs_count=4" />
+</a>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=em843&label=Visitors)
+
+
+<!-- GITHUBSTATS:END -->
