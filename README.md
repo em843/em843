@@ -1,5 +1,6 @@
 ## Hi! I'm Erin 👋
 - 👩‍💻 Eager problem solver and skilled communicator.
+- 👩‍🎓 Bachelor's in Computer Science @ Kalamazoo College '23
 - 🚙 Currently working @ Cornell on a tool that quantifies vehicle emissions in pursuit of better air quality!
 - 🎶 Recently, I've been making updates to my Angular web-app, the [erinmusicbox MIDI Visualizer](https://erinmusicbox.com/).
 - 🎹 I run a freelance music arranging business called erinmusicbox (5 years and counting!).
