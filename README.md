@@ -1,5 +1,6 @@
 ## Hi! I'm Erin 👋
 - 👩‍💻 Eager problem solver and skilled communicator.
+- 🗺️ SWE @ [ZRSA](https://www.zevross.com/)
 - 🎶 Recently, I've been making updates to my brand website which I built from scratch in Angular, [erinmusicbox.com](https://erinmusicbox.com/).
 - 🎹 I run a freelance music arranging business called erinmusicbox (5 years and counting!).
 - 🐈 In my free time, I like to sing, hike, and hang out with my two cats.
