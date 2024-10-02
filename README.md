@@ -21,18 +21,5 @@
 <br />
 
 <!-- GITHUBSTATS:START -->
-<a href="https://github-readme-stats.vercel.app/api?username=em843&hide_title=true&count_private=true&show_icons=true&theme=radical">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=em843&hide_title=true&count_private=true&show_icons=true&theme=radical" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=em843&hide_title=true&theme=radical&langs_count=4">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=em843&hide_title=true&theme=radical&langs_count=4" />
-</a>
-
-<br/>
-<br />
-
-
 ![](https://komarev.com/ghpvc/?username=em843&label=Visitors)
-
-
 <!-- GITHUBSTATS:END -->
